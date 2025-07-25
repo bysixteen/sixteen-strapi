@@ -13,7 +13,8 @@
     "strapi": "strapi",
     "upgrade": "npx @strapi/upgrade latest",
     "upgrade:dry": "npx @strapi/upgrade latest --dry",
-    "setup-env": "node scripts/setup-env.js"
+    "setup-env": "node scripts/setup-env.js",
+    "dev-local": "./scripts/dev.sh"
   },
   "dependencies": {
     "@strapi/plugin-cloud": "^4.25.22",
