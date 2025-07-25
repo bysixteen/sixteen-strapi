@@ -1,0 +1,12 @@
+{
+  "build": {
+    "command": "npm run build"
+  },
+  "deploy": {
+    "command": "npm start"
+  },
+  "env": {
+    "NODE_ENV": "development",
+    "DATABASE_CLIENT": "postgres"
+  }
+} 
