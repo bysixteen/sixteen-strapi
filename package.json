@@ -17,7 +17,8 @@
     "dev-local": "./scripts/dev.sh",
     "sync-data": "./scripts/sync-data.sh",
     "migrate-content": "node scripts/migrate-content.js",
-    "auto-migrate": "node scripts/auto-migrate.js"
+    "auto-migrate": "node scripts/auto-migrate.js",
+    "export-plugin": "node scripts/export-with-plugin.js"
   },
   "dependencies": {
     "@strapi/plugin-cloud": "^4.25.22",
@@ -28,6 +29,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^5.3.4",
+    "strapi-plugin-import-export-entries": "^1.23.1",
     "strapi-plugin-populate-deep": "^3.0.1",
     "styled-components": "^5.3.11",
     "typescript": "^5"
