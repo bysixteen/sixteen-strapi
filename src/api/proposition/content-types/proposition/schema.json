@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "propositions",
+  "info": {
+    "singularName": "proposition",
+    "pluralName": "propositions",
+    "displayName": "Proposition"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Body": {
+      "type": "string"
+    }
+  }
+}

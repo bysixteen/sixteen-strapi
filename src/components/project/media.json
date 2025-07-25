@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_project_media",
+  "info": {
+    "displayName": "ContentSectionMedia"
+  },
+  "options": {},
+  "attributes": {
+    "Media": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    }
+  },
+  "config": {}
+}

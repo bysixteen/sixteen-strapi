@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "availabilities",
+  "info": {
+    "singularName": "availability",
+    "pluralName": "availabilities",
+    "displayName": "Availability"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "AvailabilityText": {
+      "type": "string"
+    },
+    "AvailabilityEmail": {
+      "type": "string"
+    }
+  }
+}

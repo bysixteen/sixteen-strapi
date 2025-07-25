@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_project_content_section_media_assets",
+  "info": {
+    "displayName": "ContentSectionMediaAsset"
+  },
+  "options": {},
+  "attributes": {
+    "MediaAsset": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_project_vimeos",
+  "info": {
+    "displayName": "VimeoEmbed"
+  },
+  "options": {},
+  "attributes": {
+    "VimeoId": {
+      "type": "string",
+      "required": false
+    }
+  },
+  "config": {}
+}

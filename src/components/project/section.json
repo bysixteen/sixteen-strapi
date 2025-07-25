@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_project_sections",
+  "info": {
+    "displayName": "ContentSection"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Body": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

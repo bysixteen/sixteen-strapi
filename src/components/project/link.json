@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_project_links",
+  "info": {
+    "displayName": "ExternalLink"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

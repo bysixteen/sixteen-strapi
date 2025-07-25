@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_project_credits",
+  "info": {
+    "displayName": "ContentSectionCredit"
+  },
+  "options": {},
+  "attributes": {
+    "Position": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

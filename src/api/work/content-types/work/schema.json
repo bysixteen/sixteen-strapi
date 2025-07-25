@@ -1,0 +1,114 @@
+{
+  "kind": "collectionType",
+  "collectionName": "works",
+  "info": {
+    "singularName": "work",
+    "pluralName": "works",
+    "displayName": "Work",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ThumbImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Client": {
+      "type": "string"
+    },
+    "Subtitle": {
+      "type": "string"
+    },
+    "HeroMedia": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    },
+    "Year": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string"
+    },
+    "Agency": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::agency.agency"
+    },
+    "Industry": {
+      "type": "enumeration",
+      "enum": [
+        "Fintech",
+        "Health",
+        "Retail"
+      ]
+    },
+    "Slug": {
+      "type": "uid"
+    },
+    "Awards": {
+      "type": "string"
+    },
+    "ExternalLink": {
+      "type": "component",
+      "component": "project.link",
+      "repeatable": false
+    },
+    "Confidential": {
+      "type": "boolean"
+    },
+    "Credit": {
+      "type": "component",
+      "component": "project.credit",
+      "repeatable": true
+    },
+    "Sections": {
+      "type": "dynamiczone",
+      "components": [
+        "project.section",
+        "project.media",
+        "project.vimeo",
+        "project.content-section-image-right",
+        "project.content-section-media-asset",
+        "project.content-section-phones"
+      ]
+    },
+    "Positions": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::position.position",
+      "mappedBy": "Position"
+    },
+    "Services": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::service.service",
+      "mappedBy": "Service"
+    },
+    "IntroSection": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project.section"
+    },
+    "Phone": {
+      "type": "component",
+      "repeatable": false,
+      "component": "project.content-section-phones"
+    }
+  }
+}
