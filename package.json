@@ -15,7 +15,8 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry",
     "setup-env": "node scripts/setup-env.js",
     "dev-local": "./scripts/dev.sh",
-    "sync-data": "./scripts/sync-data.sh"
+    "sync-data": "./scripts/sync-data.sh",
+    "migrate-content": "node scripts/migrate-content.js"
   },
   "dependencies": {
     "@strapi/plugin-cloud": "^4.25.22",
