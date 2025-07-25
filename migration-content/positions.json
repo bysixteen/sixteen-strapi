@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "Name": "Creative Director",
+      "createdAt": "2025-07-23T21:49:20.056Z",
+      "updatedAt": "2025-07-23T21:49:20.056Z",
+      "publishedAt": "2025-07-23T22:48:00.000Z",
+      "Position": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "Name": "Art Director",
+      "createdAt": "2025-07-23T21:49:20.071Z",
+      "updatedAt": "2025-07-24T08:54:35.177Z",
+      "publishedAt": "2025-07-23T22:48:00.000Z",
+      "Position": {
+        "data": [
+          {
+            "id": 4,
+            "attributes": {
+              "Client": "Trek",
+              "Subtitle": "Cycling brand digital experience",
+              "Year": "2022",
+              "Type": "Digital Design",
+              "Industry": "Retail",
+              "Slug": "trek",
+              "Awards": "Webby Awards",
+              "Confidential": false,
+              "createdAt": "2025-07-23T21:49:43.307Z",
+              "updatedAt": "2025-07-24T10:29:11.065Z",
+              "publishedAt": "2025-07-23T22:48:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "Name": "Senior Designer",
+      "createdAt": "2025-07-23T21:49:20.086Z",
+      "updatedAt": "2025-07-23T21:49:20.086Z",
+      "publishedAt": "2025-07-23T22:48:00.000Z",
+      "Position": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "Name": "Lead Product Designer",
+      "createdAt": "2025-07-24T08:20:45.801Z",
+      "updatedAt": "2025-07-24T08:20:45.801Z",
+      "publishedAt": "2025-07-24T08:54:29.638Z",
+      "Position": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 7,
+    "attributes": {
+      "Name": "Lead UX Designer",
+      "createdAt": "2025-07-24T08:22:34.679Z",
+      "updatedAt": "2025-07-24T08:22:34.679Z",
+      "publishedAt": "2025-07-24T08:54:29.638Z",
+      "Position": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "Name": "Design System Lead",
+      "createdAt": "2025-07-24T08:53:26.073Z",
+      "updatedAt": "2025-07-24T08:53:26.073Z",
+      "publishedAt": "2025-07-24T08:54:29.638Z",
+      "Position": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "Name": "UX Lead",
+      "createdAt": "2025-07-24T08:56:00.048Z",
+      "updatedAt": "2025-07-24T08:56:03.031Z",
+      "publishedAt": "2025-07-24T08:56:03.030Z",
+      "Position": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "Client": "Careem",
+              "Subtitle": "Envisioning the Future of Mobility",
+              "Year": "2024",
+              "Type": "App",
+              "Industry": null,
+              "Slug": "careem",
+              "Awards": null,
+              "Confidential": null,
+              "createdAt": "2025-07-23T21:47:23.098Z",
+              "updatedAt": "2025-07-25T09:46:18.738Z",
+              "publishedAt": "2025-07-23T22:47:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "Name": "UI Lead",
+      "createdAt": "2025-07-24T08:56:18.837Z",
+      "updatedAt": "2025-07-24T08:56:20.214Z",
+      "publishedAt": "2025-07-24T08:56:20.213Z",
+      "Position": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "Client": "Careem",
+              "Subtitle": "Envisioning the Future of Mobility",
+              "Year": "2024",
+              "Type": "App",
+              "Industry": null,
+              "Slug": "careem",
+              "Awards": null,
+              "Confidential": null,
+              "createdAt": "2025-07-23T21:47:23.098Z",
+              "updatedAt": "2025-07-25T09:46:18.738Z",
+              "publishedAt": "2025-07-23T22:47:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

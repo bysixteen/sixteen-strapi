@@ -16,7 +16,8 @@
     "setup-env": "node scripts/setup-env.js",
     "dev-local": "./scripts/dev.sh",
     "sync-data": "./scripts/sync-data.sh",
-    "migrate-content": "node scripts/migrate-content.js"
+    "migrate-content": "node scripts/migrate-content.js",
+    "auto-migrate": "node scripts/auto-migrate.js"
   },
   "dependencies": {
     "@strapi/plugin-cloud": "^4.25.22",

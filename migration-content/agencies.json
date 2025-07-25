@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "Name": "Fantasy Interactive",
+      "createdAt": "2025-07-23T21:40:48.334Z",
+      "updatedAt": "2025-07-24T08:54:07.292Z",
+      "publishedAt": "2025-07-24T08:54:07.291Z"
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "Name": "Resn",
+      "createdAt": "2025-07-23T21:41:02.007Z",
+      "updatedAt": "2025-07-23T21:41:02.007Z",
+      "publishedAt": "2025-07-24T08:54:14.226Z"
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "Name": "Bros&Co",
+      "createdAt": "2025-07-23T21:41:13.242Z",
+      "updatedAt": "2025-07-24T08:54:04.295Z",
+      "publishedAt": "2025-07-24T08:54:04.294Z"
+    }
+  },
+  {
+    "id": 7,
+    "attributes": {
+      "Name": "Moniepoint",
+      "createdAt": "2025-07-24T08:20:55.207Z",
+      "updatedAt": "2025-07-24T08:20:55.207Z",
+      "publishedAt": "2025-07-24T08:54:14.226Z"
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "Name": "Magic Leap",
+      "createdAt": "2025-07-24T08:21:30.634Z",
+      "updatedAt": "2025-07-24T08:21:30.634Z",
+      "publishedAt": "2025-07-24T08:54:14.226Z"
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "Name": "Heirloom",
+      "createdAt": "2025-07-24T08:21:41.560Z",
+      "updatedAt": "2025-07-24T08:21:41.560Z",
+      "publishedAt": "2025-07-24T08:54:14.226Z"
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "Name": "idean",
+      "createdAt": "2025-07-24T08:22:19.087Z",
+      "updatedAt": "2025-07-24T08:22:19.087Z",
+      "publishedAt": "2025-07-24T08:54:14.226Z"
+    }
+  }
+]

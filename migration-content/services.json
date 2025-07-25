@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "Name": "Brand Identity",
+      "createdAt": "2025-07-23T21:49:26.702Z",
+      "updatedAt": "2025-07-23T21:49:26.702Z",
+      "publishedAt": "2025-07-23T22:48:00.000Z",
+      "Service": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "Name": "Wireframing",
+      "createdAt": "2025-07-23T21:49:26.718Z",
+      "updatedAt": "2025-07-24T21:16:50.458Z",
+      "publishedAt": "2025-07-23T22:48:00.000Z",
+      "Service": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "Client": "Careem",
+              "Subtitle": "Envisioning the Future of Mobility",
+              "Year": "2024",
+              "Type": "App",
+              "Industry": null,
+              "Slug": "careem",
+              "Awards": null,
+              "Confidential": null,
+              "createdAt": "2025-07-23T21:47:23.098Z",
+              "updatedAt": "2025-07-25T09:46:18.738Z",
+              "publishedAt": "2025-07-23T22:47:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "Name": "Motion Graphics",
+      "createdAt": "2025-07-23T21:49:26.732Z",
+      "updatedAt": "2025-07-23T21:49:26.732Z",
+      "publishedAt": "2025-07-23T22:48:00.000Z",
+      "Service": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "Name": "Design + Art Direction",
+      "createdAt": "2025-07-23T21:50:30.381Z",
+      "updatedAt": "2025-07-24T21:16:31.466Z",
+      "publishedAt": "2025-07-23T22:50:00.000Z",
+      "Service": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "Name": "Creative Direction",
+      "createdAt": "2025-07-23T21:50:30.394Z",
+      "updatedAt": "2025-07-23T21:50:30.394Z",
+      "publishedAt": "2025-07-23T22:50:00.000Z",
+      "Service": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "Name": "Design System",
+      "createdAt": "2025-07-24T08:57:03.532Z",
+      "updatedAt": "2025-07-24T21:19:30.119Z",
+      "publishedAt": "2025-07-24T21:19:30.117Z",
+      "Service": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 7,
+    "attributes": {
+      "Name": "Prototyping",
+      "createdAt": "2025-07-24T08:57:15.854Z",
+      "updatedAt": "2025-07-24T08:57:18.125Z",
+      "publishedAt": "2025-07-24T08:57:18.125Z",
+      "Service": {
+        "data": []
+      }
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "Name": "Visual Design",
+      "createdAt": "2025-07-24T08:58:11.003Z",
+      "updatedAt": "2025-07-24T08:58:12.821Z",
+      "publishedAt": "2025-07-24T08:58:12.821Z",
+      "Service": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "Client": "Careem",
+              "Subtitle": "Envisioning the Future of Mobility",
+              "Year": "2024",
+              "Type": "App",
+              "Industry": null,
+              "Slug": "careem",
+              "Awards": null,
+              "Confidential": null,
+              "createdAt": "2025-07-23T21:47:23.098Z",
+              "updatedAt": "2025-07-25T09:46:18.738Z",
+              "publishedAt": "2025-07-23T22:47:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "Name": "UX Design",
+      "createdAt": "2025-07-24T08:58:37.917Z",
+      "updatedAt": "2025-07-24T08:58:39.263Z",
+      "publishedAt": "2025-07-24T08:58:39.263Z",
+      "Service": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "Client": "Careem",
+              "Subtitle": "Envisioning the Future of Mobility",
+              "Year": "2024",
+              "Type": "App",
+              "Industry": null,
+              "Slug": "careem",
+              "Awards": null,
+              "Confidential": null,
+              "createdAt": "2025-07-23T21:47:23.098Z",
+              "updatedAt": "2025-07-25T09:46:18.738Z",
+              "publishedAt": "2025-07-23T22:47:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "Name": "Research",
+      "createdAt": "2025-07-24T21:18:24.688Z",
+      "updatedAt": "2025-07-24T21:18:34.450Z",
+      "publishedAt": "2025-07-24T21:19:40.601Z",
+      "Service": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "Client": "Careem",
+              "Subtitle": "Envisioning the Future of Mobility",
+              "Year": "2024",
+              "Type": "App",
+              "Industry": null,
+              "Slug": "careem",
+              "Awards": null,
+              "Confidential": null,
+              "createdAt": "2025-07-23T21:47:23.098Z",
+              "updatedAt": "2025-07-25T09:46:18.738Z",
+              "publishedAt": "2025-07-23T22:47:00.000Z"
+            }
+          }
+        ]
+      }
+    }
+  }
+]
